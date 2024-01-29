@@ -3,9 +3,13 @@
 <h3>👻 Sobre Mim</h3>
 <hr>
 <p>Sou um analista especialista com mais de 10 anos com experiência em ramos de Seguros/Resseguros e Saúde;
-• Há mais de 8 anos com trabalhos focados em experiência do usuário e cliente;
-• Participação em projetos de Sites, Sistemas, Branding, Marketing Digital.</p>
 <ul>
+  <li> Há mais de 8 anos com trabalhos focados em experiência do usuário e cliente;</li>
+<li>Participação em projetos de Sites, Sistemas, Branding, Marketing Digital.</li>
+</ul>
+  </p>
+  <br>
+  <ul>
   <li>Carioca na terra da garoa;</li>
   <li>Hobbies: Flamengo, Cozinhar, Aquário e Fotografia;</li>
   <li>Pai do Caio (catarentinho levado pinga fogo);</li>
