@@ -20,7 +20,7 @@
   <li>Figma;</li>
   <li>Scrum / Kaban </li>
   <li>Design Thinking</li>
-  <li>HTML 5, CSS3 e JS;</li>
+  <li>HTML 5, CSS3 e JS; (Front-End)</li>
   <li>UX/UI Design;</li>
   <li>Bootstrap;</li>
   <li>Visual Studio Code;</li>
