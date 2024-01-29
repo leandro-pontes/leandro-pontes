@@ -15,14 +15,14 @@
 <hr>
 
 <ul>
-  <li>Pacote Adobe</li>
-  <li>Figma</li>
-  <li>HTML 5, CSS3 e JS</li>
-  <li>UX/UI Design</li>
-  <li>Bootstrap</li>
-  <li>Visual Studio Code</li>
-  <li>Já usei esses CMS: Wordpress, Drupal, Joomla, Sharepoint</li>
-  <li>Noções: aspx, php, cfm, sql e mysql  </li>
+  <li>Pacote Adobe;</li>
+  <li>Figma;</li>
+  <li>HTML 5, CSS3 e JS;</li>
+  <li>UX/UI Design;</li>
+  <li>Bootstrap;</li>
+  <li>Visual Studio Code;</li>
+  <li>Já usei esses CMS: Wordpress, Drupal, Joomla, Sharepoint;</li>
+  <li>Noções e programação e BD: aspx, php, cfm, sql e mysql.  </li>
 </ul>
 
 <h3>⭐️ Curiosidades</h3>
