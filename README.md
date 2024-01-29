@@ -21,8 +21,9 @@
   <li>UX/UI Design;</li>
   <li>Bootstrap;</li>
   <li>Visual Studio Code;</li>
-  <li>Já usei esses CMS: Wordpress, Drupal, Joomla, Sharepoint;</li>
-  <li>Noções e programação e BD: aspx, php, cfm, sql e mysql.  </li>
+  <li>Unbounce (lowcode);</li>
+  <li>Já usei esses CMS: Wordpress, Drupal, Joomla e Sharepoint;</li>
+  <li>Noções e programação e bd: aspx, php, cfm, sql e mysql.  </li>
 </ul>
 
 <h3>⭐️ Curiosidades</h3>
@@ -31,4 +32,5 @@
 <ul>
   <li>Sou da old school da internet, em algumas situações uso até ftp;</li>
   <li>Codava no bloco de notas até conhecer esses frameworks maneiros.</li>
+  <li>Interesses em Flutter e Xamarin </li>
 </ul>
