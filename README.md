@@ -5,7 +5,7 @@
 <p>Sou um designer especialista em usabilidade com mais de 10 anos com experiência em ramos de Seguros/Resseguros e Saúde;</p>
 <ul>
   <li> Há mais de 8 anos com trabalhos focados em experiência do usuário e cliente;</li>
-  <li>Participação em projetos de Sites, Sistemas, Branding, Marketing Digital.</li>
+  <li>Participação em projetos de Sites, APP, Sistemas, Branding, Marketing Digital.</li>
   <li>Carioca na terra da garoa;</li>
   <li>Hobbies: Flamengo, Cozinhar, Aquário e Fotografia;</li>
   <li>Pai do Caio (catarentinho levado pinga fogo);</li>
