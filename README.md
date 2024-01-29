@@ -15,6 +15,8 @@
 <hr>
 
 <ul>
+  <li>Pacote Adobe</li>
+  <li>Figma</li>
   <li>HTML 5, CSS3 e JS</li>
   <li>UX/UI Design</li>
   <li>Bootstrap</li>
