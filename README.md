@@ -1,6 +1,6 @@
 
 
-<h3>Sobre Mim</h3>
+<h3>👻 Sobre Mim</h3>
 <hr>
 
 <ul>
@@ -17,7 +17,7 @@
   <li>UX/UI Design</li>
 </ul>
 
-<h3>Curiosidade</h3>
+<h3>⭐️ Curiosidades</h3>
 <hr>
 
 <ul>
