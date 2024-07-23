@@ -2,7 +2,7 @@
 
 <h3>👻 Sobre Mim</h3>
 <hr>
-<p>Sou um designer especialista em usabilidade com mais de 10 anos com experiência em ramos de Seguros/Resseguros e Saúde;</p>
+<p>Sou um designer especialista em usabilidade com mais de 15 anos com experiência em ramos de Seguros/Resseguros e Saúde;</p>
 <ul>
   <li> Há mais de 8 anos com trabalhos focados em experiência do usuário e cliente;</li>
   <li>Participação em projetos de Sites, APP, Sistemas, Branding, Marketing Digital.</li>
